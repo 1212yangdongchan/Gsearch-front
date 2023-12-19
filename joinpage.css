@@ -16,17 +16,13 @@ form{
     height:40px;
     border-radius: 10px;
 }
-body{
-    text-align: center;
-    background-color: black;
-    color:white;
-}
+
 
 .loginbtn{
     width: 400px;
     height: 40px;
     border-radius: 10px;
 
-    background-color: #0774DB;
+    background-color: #97CCFF;
     color: white;
 }
